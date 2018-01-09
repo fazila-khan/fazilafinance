@@ -1,0 +1,26 @@
+do:
+get the fd investment data
+
+calculate the maturity date
+calculate the maturity amount
+
+Query on goal
+
+modify the fd investment data
+
+#################################
+Functions:
+get the fd investment data
+
+calculate the maturity date
+calculate the maturity amount
+
+Query on goal
+
+modify the fd investment data
+
+
+variables:
+list of FDs
+FD = dict = bank, principal,interest,startdate,duration ,   maturityamt, maturitydate,goal
+
