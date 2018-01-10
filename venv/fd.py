@@ -66,7 +66,7 @@ def save_file():
                 f.write(json.dumps(fd).encode('utf-8'))
             f.write(b']')
             f.close()
-    except FileNotFoundError:
+    except Exception:
         print("Error saving data to file")
 
 
